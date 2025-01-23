@@ -21,7 +21,7 @@ public class TestClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		TestClass obj = new TestClass();
-		obj.displayvalues("testvalue",5);
+		obj.displayvalues("testvalue new ",5);
 	}
 	
 	public void displayvalues(String s , int a) {
