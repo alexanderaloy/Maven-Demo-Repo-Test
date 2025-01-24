@@ -20,7 +20,7 @@ public class TestClass {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		TestClass obj = new TestClass();
+		TestClass obj = new TestClass(); //object created
 		obj.displayvalues("testvalue new ",5);
 	}
 	
